@@ -1,0 +1,5 @@
+PERSON : Livesey, Dance, dogger
+TIME: the afternoon , the evening
+ORG: house
+QUANTITY: short, long
+FAC: hall

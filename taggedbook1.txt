@@ -1,0 +1,5 @@
+CARDINAL : fifty
+GPE : France , Norway,  Paris
+PERSON : sister , pastors ,Woodman, Farmer 
+NORP: Christian
+QUANTITY: sixty yards
